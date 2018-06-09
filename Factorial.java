@@ -4,7 +4,7 @@ public class Factorial
 
 	public static void main(String[] args)
 
-	{	final int NUM_FACTS = 100;
+	{	final int NUM_FACTS = 20;
 
 		for(int i = 0; i < NUM_FACTS; i++)
 
