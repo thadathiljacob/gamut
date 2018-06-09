@@ -1,4 +1,4 @@
-public class Exercise1 {
+public class Name {
 
  
 
