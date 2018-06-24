@@ -13,7 +13,7 @@ public class Sum {
         num = scan.nextInt();
         //closing scanner after use
         scan.close();
-        for(count = 1; count <= num; count++){
+        for(count = 2; count <= num; count++){
             total = total + count;
         }
 
