@@ -4,7 +4,7 @@ public class Exercise1 {
 
  public static void main(String[] args) {
 
-  System.out.println("Hi\njacob johnson");
+  System.out.println("Hii\njacob johnson");
 
  }
 
